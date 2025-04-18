@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanish shah
-- 👀 I’m interested in telecommunication
+- 👀 I’m interested in VLSI designing, embedded system,IOT, software testing 
 - 🌱 I’m currently persuing B.tech in electronics and telecommunication
 - 📫 How to reach me mail - tanishshah652@gmail.com
 - ⚡ Fun fact: athetletic, fast learner 
